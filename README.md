@@ -1,2 +1,2 @@
-# ang2bil
+# ang-bil
 Converter dari angka ke bilangan
