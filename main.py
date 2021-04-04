@@ -9,11 +9,16 @@ Alur :
 from modules import *
 
 ang = Convert()
+st = Convert()
+rb = Convert()
+jt = Convert()
 ang.masukan()
+print(ang.am)
 ang.potong()
-#print(ang.jt)
+#print(ang.st)
 #print(ang.rb)
 #print(ang.st)
+'''
 if len(ang.st) == 1:
 	ang.st[-1] = bil_satuan[ang.st[-1]]
 #	print(ang.st)
@@ -32,3 +37,4 @@ else:
 	print('failed')
 for i in ang.st:
 	print(i, end=' ')
+'''
